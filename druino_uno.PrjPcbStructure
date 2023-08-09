@@ -1,0 +1,8 @@
+Record=TopLevelDocument|FileName=p1_structure.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=p1_structure.SchDoc|FileName=p2_power_tree.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=p1_structure.SchDoc|FileName=p3_mcu.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=p1_structure.SchDoc|FileName=p4_esp32.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=p1_structure.SchDoc|FileName=p5_ethernet.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=p1_structure.SchDoc|FileName=p6_wch_link.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=p1_structure.SchDoc|FileName=p7_power.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=p1_structure.SchDoc|FileName=p8_led_matrix.SchDoc|SheetNumber= 
