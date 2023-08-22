@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [druino_uno.PrjPcb]
+   Generated File[druino_uno_pcb-RoundHoles.TXT]
+   Generated File[druino_uno_pcb-SlotHoles.TXT]
+   Generated File[druino_uno_pcb.LDP]
+   Generated File[druino_uno_pcb.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 19:34:03 On 22.08.2023
