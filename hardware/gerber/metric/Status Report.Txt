@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [druino_uno.PrjPcb]
+   Generated File[druino_uno_pcb.GTO]
+   Generated File[druino_uno_pcb.GTP]
+   Generated File[druino_uno_pcb.GTS]
+   Generated File[druino_uno_pcb.GTL]
+   Generated File[druino_uno_pcb.G1]
+   Generated File[druino_uno_pcb.G2]
+   Generated File[druino_uno_pcb.GBL]
+   Generated File[druino_uno_pcb.GBS]
+   Generated File[druino_uno_pcb.GBP]
+   Generated File[druino_uno_pcb.GBO]
+   Generated File[druino_uno_pcb.GM10]
+   Generated File[druino_uno_pcb.GM]
+   Generated File[druino_uno_pcb.EXTREP]
+   Generated File[druino_uno_pcb.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 2:44:40 PM On 9/22/2023
