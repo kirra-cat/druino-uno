@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: druino_uno_pcb.PcbDoc   9/24/2023  3:42:24 AM
+NCDrill File Report For: druino_uno_pcb.PcbDoc   9/24/2023  10:42:29 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : TOP to BOT
@@ -8,7 +8,7 @@ ASCII SlotHoles File : druino_uno_pcb-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.25mm (10mil)                                            Round             314       PTH        836.62mm (32.94inch)
+T1      0.25mm (10mil)                                            Round             314       PTH        826.41mm (32.54inch)
 T2      0.6mm (24mil)                                             Slot              4         PTH        35.97mm (1.42inch)
 T3      0.8mm (31mil)                                             Slot              5         PTH        45.25mm (1.78inch)
 T4      0.9mm (35mil)                                             Round             8         PTH        20.45mm (0.81inch)
